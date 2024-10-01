@@ -1,0 +1,7 @@
+README.md
+setup.py
+src/MFA.egg-info/PKG-INFO
+src/MFA.egg-info/SOURCES.txt
+src/MFA.egg-info/dependency_links.txt
+src/MFA.egg-info/top_level.txt
+tests/test.py
